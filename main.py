@@ -1,7 +1,8 @@
 #!/bin/usr/python3
 
 def main(msg):
-    // Adding a second comment to this file.
+    // Adding a second comment to this file	
+    // Print a message
     print(msg)
 
 main("Hello People")
